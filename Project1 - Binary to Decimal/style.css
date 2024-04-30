@@ -1,70 +1,70 @@
 @import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oxygen:wght@300;400;700&display=swap');
 
-            html, body {
-                height: 100vh;
-            }
+html, body {
+    height: 100vh;
+}
 
-            body {
-                display: flex;
+body {
+    display: flex;
 
-                background-color: lightblue;
+    background-color: lightblue;
 
-                align-items: center;
-                justify-content: center;
+    align-items: center;
+    justify-content: center;
 
-                flex-direction: column;
-            }
+    flex-direction: column;
+}
 
-            label {
-                font-family: "Jersey 15", sans-serif;
-                font-style: normal;
-                font-weight: 400;
-                font-size: 1.5em;
-                
-                color: #066868;
+label {
+    font-family: "Jersey 15", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5em;
+    
+    color: #066868;
 
-                margin-bottom: 5px;
-            }
+    margin-bottom: 5px;
+}
 
-            #ConvertorINPUT {
-                font-family: "Jersey 15", sans-serif;
-                font-style: normal;
-                font-weight: 400;
-                font-size: 2em;
+#ConvertorINPUT {
+    font-family: "Jersey 15", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
 
-                padding: 5px 10px;
+    padding: 5px 10px;
 
-                border: 2px dotted black;
-                border-radius: 10px;
-                outline: none;
-            }
+    border: 2px dotted black;
+    border-radius: 10px;
+    outline: none;
+}
 
-            #ConvertBTN {
-                font-family: "Jersey 15", sans-serif;
-                font-style: normal;
-                font-weight: 400;
-                font-size: 1.3em;
+#ConvertBTN {
+    font-family: "Jersey 15", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3em;
 
-                color: white;
-                background-color: #097a7a;
+    color: white;
+    background-color: #097a7a;
 
-                padding: 10px 25px;
-                margin: 20px 0;
+    padding: 10px 25px;
+    margin: 20px 0;
 
-                border: 1px solid #054e4e;
-                border-radius: 6px;
-                outline: none;
-            }
+    border: 1px solid #054e4e;
+    border-radius: 6px;
+    outline: none;
+}
 
-            #ResultINPUT {
-                font-family: "Jersey 15", sans-serif;
-                font-style: normal;
-                font-weight: 400;
-                font-size: 2em;
+#ResultINPUT {
+    font-family: "Jersey 15", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
 
-                padding: 5px 10px;
+    padding: 5px 10px;
 
-                border: 1px solid black;
-                border-radius: 10px;
-                outline: none;
-            }
+    border: 1px solid black;
+    border-radius: 10px;
+    outline: none;
+}
